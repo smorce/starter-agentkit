@@ -1,3 +1,16 @@
+
+
+持たせたいツールは一旦画像生成周り
+- replicate の API を叩いてみたい。
+- bytedance/sdxl-lightning-4step
+- cjwbw/hyper-sdxl-1step-t2i
+- philz1337x/clarity-lowres-upscaler
+- philz1337x/clarity-upscaler
+- lucataco/ip-adapter-faceid
+
+
+
+
 <img src="static/agentkit_logo_color.png" alt="AgentKit logo" style="width:500px;"/>
 
 [![Lint-Backend](https://github.com/BCG-X-Official/agentkit/actions/workflows/lint-backend.yml/badge.svg?branch=main)](https://github.com/BCG-X-Official/agentkit/actions/workflows/lint-backend.yml?query=branch%3Amain)
